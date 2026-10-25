@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Environments
+.venv/
+env/
+venv/
+
+# PyInstaller build outputs
+build/
+dist/
+*.spec
+
+# User session / local data
+last_session.json
+*.json.bak
+
+# Binary executables
+*.exe
